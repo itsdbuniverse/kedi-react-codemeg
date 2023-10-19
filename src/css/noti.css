@@ -1,0 +1,40 @@
+table{
+    width:100%;
+}
+table, th,td{
+    border:1px solid #858585;
+    border-collapse: collapse;
+}
+.table-row-noti tr, th{
+    padding:15px;
+    width: 400px;
+    height: 40px;
+    text-align: center;
+    background-color: #eeeeee;
+}
+
+
+td h6{
+    text-align: left;
+}
+td p{
+    color: #858585;
+    text-align: left;
+    background-color: #fff;
+}
+.table-row-noti tr, td{
+    
+    padding: 10px;
+}
+.content-container-noti{
+    width: 60%;
+    align-items: center;
+}
+.table-box{
+   margin-right: 0 auto;
+}
+.content-container-noti{
+    width: 50%;
+    margin-left: 26%;
+    margin-top: 30px;
+}

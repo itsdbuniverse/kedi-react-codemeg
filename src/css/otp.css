@@ -1,0 +1,87 @@
+/* header{
+    display: flex;
+    display: inline-flex;
+    justify-content:space-between;
+    width:100%;
+    background-color: #64bdff;
+    position: relative;
+    list-style: none;
+}
+.nav1 ul{
+    list-style: none;
+}
+.nav1 a{
+    text-decoration:none;
+    font-size: 30px;
+    padding:15px;
+    font-weight: 700;
+    color: #fff;
+
+}
+.nav2 ul{
+    list-style: none;
+}
+.login-btn{
+    background-color:#fff;
+  border-radius: 20px;
+  color: black;
+  border: none;
+  padding: 8px 22px;
+  text-align: center;
+  font-size: 16px;
+  margin:8px;
+}
+
+.form{
+    overflow:unset;
+    box-shadow: none;
+    width:auto;
+}
+
+.form-control{
+    margin-right: 15px;
+    border-radius: 10px;
+    font-size: 30px;
+    width:60px;
+    height:60px;
+    margin:10px;
+}
+.cursor{
+    cursor: pointer;
+}
+.container{
+    margin-top: 100px;
+    width: 100%;
+    max-width: 900px;
+    padding: 10px 15px;
+    margin-right: auto;
+    margin-left: auto;
+} */
+
+.otp{
+    display: flex;
+    justify-content:flex-start;
+    gap:3%;
+}
+.otp input{
+    width: 15%;
+    padding:15px;
+}
+.otp input{
+    text-align: center;
+}
+.bottom-sec{
+    margin-top: 20px;
+}
+.login-buttons-otp button{
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 90%;
+    background-color: #64bdff;
+    color: white;
+    border-radius: 4px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-top:5px;
+}

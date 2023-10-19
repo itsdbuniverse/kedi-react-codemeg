@@ -1,0 +1,30 @@
+.right-content-btn{
+    display: flex;
+    gap:10px;
+}
+
+td a i4{
+    color:red;
+}
+.content{
+    align-items: center;
+}
+.all-input input{
+    width:300px;
+}
+.e-input input{
+   width: 300px;
+
+}
+.all-input{
+    margin-right: 15px;
+}
+i.fa.fa-envelope-o{
+    position: absolute;
+    padding:10px;
+}
+i.fa.fa-sort-desc{
+    position: absolute;
+    padding:9px;
+}
+

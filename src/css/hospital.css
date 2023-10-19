@@ -1,0 +1,89 @@
+.table-row th{
+    text-align: center;
+    padding: 10px;
+}
+table, th,td{
+   border:1px solid #858585;
+   border-collapse: collapse;
+}
+.table-row td{
+    
+    background-color: #fff;
+    text-align: center;
+    padding:10px;
+}
+td i1{
+   font-size: 50px;
+   color: green;
+}
+td i2{
+    font-size: 50px;
+    color: red;
+ }
+ tr{
+    background-color: #ffffff;
+ }
+ td{
+   background-color: #ffffff;
+   text-align: center;
+ }
+ .content{
+    display: flex;
+    justify-content: space-between;
+ }
+ .right-btn{
+    border: none;
+    outline: none;
+    height: 40px;
+    width:100%;
+    background-color: #64bdff;
+    color:white;
+    border-radius: 4px;
+    font-weight: bold;
+}
+ .content-container{
+    margin-top:60px;
+    width: 100%;
+        max-width: 1140px;
+        padding: 10px 15px;
+        margin-right: auto;
+        margin-left: auto;
+ }
+ .table-container{
+    margin-top:30px;
+    width: 100%;
+        max-width: 1140px;
+        padding: 10px 15px;
+        margin-right: auto;
+        margin-left: auto;
+ }
+ .end-container{
+    margin-top:30px;
+    width: 100%;
+        max-width: 1140px;
+        padding: 10px 15px;
+        margin-right: auto;
+        margin-left: auto;
+ }
+ .end-content{
+    display: flex;
+    justify-content: space-between;
+ }
+ 
+ td i-edit{
+   color: #52bde0;
+   width:25px;
+  height:25px;
+  padding:6px;
+   border-radius: 5px;
+  background-color: #e8f5fa;
+ }
+ td i-delete{
+   
+   color: #ef9797;
+   width:25px;
+  height:25px;
+  padding:6px;
+   border-radius: 5px;
+  background-color: #f7e0e0;
+ }
